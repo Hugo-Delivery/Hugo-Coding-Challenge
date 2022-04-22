@@ -1,6 +1,6 @@
 # Hugo Coding Challenge
 
-For this challenge you need to have ROS2 installed(or docker). Provided with this file there is a ROS2 bag file, a database with data of Hugo’s sensor output during a test drive. 
+For this challenge you need to have ROS2 installed(or docker). Provided with this file there is a ROS2 bag file, a database with data of Hugo’s sensor output during a test drive. The center of the robot is inbetween the two wheels. 
 
 **(Easy)** For the first assignment you should read the wheel speeds from the bagfile, either make a ros subscriber that listens to the data or just run ‘ros2 topic echo’ and print the data to the terminal. And then you will use this data to plot the ``(x,y)`` positions of the robot. Plot the path and view it as an image, graph or your own personal favorite viz framework.
 
@@ -17,3 +17,8 @@ For this challenge you need to have ROS2 installed(or docker). Provided with thi
 ## Submit
 
 Send your code and results(images/plots) to ggwp@hugo.tech.
+
+### References
+
+https://docs.ros.org/en/foxy/Tutorials/Ros2bag/Recording-And-Playing-Back-Data.html
+
