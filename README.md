@@ -10,6 +10,10 @@ For this challenge you need to have ROS2 installed(or docker). Provided with thi
 
 **(Ultra hard)** Here we want you to fuse LaserScan data with wheel speeds using a kalman filter(of your choice), to improve the ``(x,y)`` estimations from the first question. Plot the new and improved path.
 
+## Robot dimensions(metric)
+* wheel_radius: 0.135
+* track_width: 0.67
+
 ## Submit
 
 Send your code and results(images/plots) to felix@hugo.tech.
