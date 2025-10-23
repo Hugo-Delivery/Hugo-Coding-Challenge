@@ -16,7 +16,7 @@ For this challenge you need to have ROS2 installed(or docker). Provided with thi
 
 ## Submit
 
-Send your code and results(images/plots) to gala@hugo.tech.
+Send your code and results(images/plots) to carl@hugo.tech.
 
 ### References
 
